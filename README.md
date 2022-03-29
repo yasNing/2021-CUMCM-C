@@ -10,3 +10,5 @@ This is the code and source file for Problem 1 of Problem C of the 2021 Mathemat
 
 This includes: ☝cluster analysis  ☝principal component analysis  ☝entropy method  ☝gray correlation
 
+Finally, if you find this work useful or interesting, please kindly give us a star ⭐, thanks!😀
+
